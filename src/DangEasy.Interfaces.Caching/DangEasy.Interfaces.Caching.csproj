@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>0.1.0</PackageVersion>
+    <Authors>Anthony Dang</Authors>
+    <Copyright>Anthony Dang</Copyright>
+    <PackageLicenseUrl>https://github.com/anthonydotnet/dangeasy-interfaces-caching/blob/master/LICENSE</PackageLicenseUrl>
+    <Owners>Anthony Dang</Owners>
+    <PackageProjectUrl>https://github.com/anthonydotnet/dangeasy-interfaces-caching</PackageProjectUrl>
+    <Summary>An opinionated interface for caching. Dotnet standard 2.0</Summary>
+    <PackageTags>cache, caching, interface</PackageTags>
+    <Title>DangEasy.Interfaces.Caching</Title>
+    <Description>An opinionated interface for caching. Dotnet standard 2.0</Description>
+    <PackageId>DangEasy.Interfaces.Caching</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+  </ItemGroup>
+</Project>

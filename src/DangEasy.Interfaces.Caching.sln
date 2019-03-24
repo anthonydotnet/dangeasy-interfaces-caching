@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangEasy.Interfaces.Caching", "DangEasy.Interfaces.Caching\DangEasy.Interfaces.Caching.csproj", "{38F34762-E42D-476F-AC42-FCE3FBC3ADBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F34762-E42D-476F-AC42-FCE3FBC3ADBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F34762-E42D-476F-AC42-FCE3FBC3ADBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F34762-E42D-476F-AC42-FCE3FBC3ADBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F34762-E42D-476F-AC42-FCE3FBC3ADBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

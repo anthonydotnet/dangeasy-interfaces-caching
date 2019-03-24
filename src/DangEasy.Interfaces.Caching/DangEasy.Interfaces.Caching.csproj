@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>0.1.0</PackageVersion>
+    <PackageVersion>1.0.0</PackageVersion>
     <Authors>Anthony Dang</Authors>
     <Copyright>Anthony Dang</Copyright>
     <PackageLicenseUrl>https://github.com/anthonydotnet/dangeasy-interfaces-caching/blob/master/LICENSE</PackageLicenseUrl>
